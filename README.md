@@ -23,3 +23,5 @@ Background Remover — это веб-приложение, которое за �
 4) Готово! Фон удален с изображения.
 
 # Ссылка на сам проект: https://huggingface.co/spaces/MRuslanR/Background_Remover
+
+<img width="1693" alt="Снимок экрана 2025-02-05 в 22 33 42" src="https://github.com/user-attachments/assets/ecae2729-9646-4f6a-8725-a6fc55e330d8" />
